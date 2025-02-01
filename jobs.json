@@ -1,0 +1,74 @@
+[
+  {
+    "jobTitle": "Software Engineer",
+    "companyName": "TechCorp",
+    "location": "San Francisco, CA",
+    "salary": 120000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Develop and maintain scalable web applications. Collaborate with cross-functional teams.",
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "3+ years of experience in full-stack development."
+    ]
+  },
+  {
+    "jobTitle": "Content Writer",
+    "companyName": "Creative Ink",
+    "location": "Austin, TX",
+    "salary": 60000,
+    "jobType": "Part-time (Remote)",
+    "jobDescription": "Write engaging content for blogs, social media, and marketing materials.",
+    "qualifications": [
+      "Strong writing and communication skills.",
+      "1+ year of experience in content creation."
+    ]
+  },
+  {
+    "jobTitle": "Data Analyst",
+    "companyName": "Data Insights Inc.",
+    "location": "Chicago, IL",
+    "salary": 85000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Analyze large datasets to derive insights and support business decisions.",
+    "qualifications": [
+      "Degree in Statistics, Data Science, or related field.",
+      "2+ years of experience in data analysis."
+    ]
+  },
+  {
+    "jobTitle": "UI/UX Designer",
+    "companyName": "Design Studio",
+    "location": "Seattle, WA",
+    "salary": 75000,
+    "jobType": "Part-time (On-site)",
+    "jobDescription": "Design intuitive user experiences and interfaces for web applications.",
+    "qualifications": [
+      "Bachelor’s degree in Design or related field.",
+      "2+ years of experience in UI/UX design."
+    ]
+  },
+  {
+    "jobTitle": "DevOps Engineer",
+    "companyName": "CloudTech",
+    "location": "Remote",
+    "salary": 110000,
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Manage CI/CD pipelines, automate deployments, and maintain cloud infrastructure.",
+    "qualifications": [
+      "Experience with AWS, Kubernetes, and Terraform.",
+      "3+ years of experience in DevOps."
+    ]
+  },
+  {
+    "jobTitle": "Customer Support Representative",
+    "companyName": "Supportly",
+    "location": "Remote",
+    "salary": 50000,
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Provide exceptional customer support via phone, email, and chat.",
+    "qualifications": [
+      "Excellent communication and problem-solving skills.",
+      "Prior experience in customer support is a plus."
+    ]
+  }
+]
